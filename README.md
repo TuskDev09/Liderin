@@ -79,7 +79,7 @@ Todas las páginas son **standalone components** sin NgModules. Las rutas están
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/linderin.git
+git clone https://github.com/TuskDev09/liderin.git
 cd linderin
 
 # Instalar dependencias
